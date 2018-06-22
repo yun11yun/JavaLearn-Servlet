@@ -1,5 +1,6 @@
 package com.yun11yun.utils;
 
+import javax.servlet.http.Part;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
@@ -9,8 +10,14 @@ public class FileUtils {
 
     private FileUtils() {}
 
+    // 从Part中获取文件名
+    public static String getFilenamePath(Part part) {
+        String disposition = part.getHeader("Content-Disposition");
+        return disposition.substring(disposition.indexOf("filename=\"") + 10, disposition.length() - 1);
+    }
+
     // 获取唯一文件名
-    public static String getFileName(String origin) {
+    public static String getUUIDFileName(String origin) {
         return UUIDUtils.getUUIDFileName(origin);
     }
 

@@ -1,5 +1,7 @@
 package com.yun11yun.servlet;
 
+import com.yun11yun.utils.FileUtils;
+
 import javax.servlet.AsyncContext;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -12,7 +14,6 @@ import java.io.*;
 /*
 
  */
-@WebServlet (asyncSupported = true)
 public class UploadServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
@@ -23,7 +24,7 @@ public class UploadServlet extends HttpServlet {
         Part part = request.getPart("upfile");
         long size = part.getSize();
 
-        String filename = getFileNameFrom(part);
+        String filename = FileUtils.getFilenamePath(part);
 
         InputStream inputStream = part.getInputStream();
 
@@ -41,18 +42,6 @@ public class UploadServlet extends HttpServlet {
         byte[] bytes = new byte[1024];
         int length = 0;
 
-
-        AsyncContext asyncContext = request.getAsyncContext();
-        asyncContext.start(new Runnable() {
-            @Override
-            public void run() {
-
-            }
-        });
     }
 
-    private String getFileNameFrom(Part part) {
-        String disposition = part.getHeader("Content-Disposition");
-        return disposition.substring(disposition.indexOf("filename=\"") + 10, disposition.length() - 1);
-    }
 }
