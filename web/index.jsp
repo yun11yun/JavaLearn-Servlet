@@ -12,7 +12,7 @@
   </head>
   <body>
     <div>
-        <form action="/jsp/upload" enctype="multipart/form-data">
+        <form action="/jsp/upload" enctype="multipart/form-data" method="post">
             <input type="file" name="upfile">
             <input type="submit">
         </form>

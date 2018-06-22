@@ -5,10 +5,11 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class FileUtilsTest {
-
+    
     @Test
-    public void getFilePath() {
-        String filepath = FileUtils.getFilePath("a.txt");
-        System.out.println(filepath);
+    public void getUploadDirWith() {
+        String dir = FileUtils.getUploadDirWith("a.txt");
+        System.out.println(dir);
     }
+    
 }
