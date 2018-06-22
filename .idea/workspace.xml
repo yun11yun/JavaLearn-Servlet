@@ -6,58 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c2953cb-292b-4cb7-b45e-b30481be35ce" name="Default" comment="">
+    <list default="true" id="5c2953cb-292b-4cb7-b45e-b30481be35ce" name="Default" comment="gitignore out文件夹">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/404.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/500.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/c3p0.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/bean/User.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/dao/AccountDao.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/dao/AccountDaoTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/dao/SearchDao.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/dao/SearchDaoTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/dao/UserDao.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/dao/UserDaoTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/filter/MyFilter$ServletHttpServletRequestWrapper.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/filter/MyFilter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/service/AccountService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/service/AccountServiceTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/service/DownloadService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/service/SearchService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/service/UserServerTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/service/UserService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/servlet/AJAXDemoServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/servlet/AccountServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/servlet/CookieServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/servlet/DownloadServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/servlet/LoginServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/servlet/SearchServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/servlet/SomeServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/servlet/TestServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/servlet/UploadServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/utils/C3p0Utils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/utils/C3p0UtilsTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/utils/CookieUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/utils/FileUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/utils/FileUtilsTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/utils/UUIDUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/resources/login.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/upload/some.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/lib/c3p0-0.9.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/lib/commons-beanutils-1.9.3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/lib/commons-dbutils-1.4.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/lib/jstl.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/lib/junit-4.8.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.11.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/lib/standard.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/web.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/error.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/home.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/login.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/products.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/test.jsp" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -130,6 +81,16 @@
       </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -685,7 +646,7 @@
       <workItem from="1529115526552" duration="9198000" />
       <workItem from="1529484104207" duration="8000" />
       <workItem from="1529484167479" duration="4501000" />
-      <workItem from="1529648105726" duration="10753000" />
+      <workItem from="1529648105726" duration="10988000" />
     </task>
     <servers />
   </component>
@@ -722,7 +683,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112106000" />
+    <option name="totallyTimeSpent" value="112341000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -735,6 +696,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1436" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298292" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -748,13 +710,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298292" sideWeight="0.4913295" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298292" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20592485" sideWeight="0.45054945" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20592485" sideWeight="0.45054945" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20592485" sideWeight="0.5494506" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16040462" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41392905" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41392905" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -778,13 +740,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/yun11yun/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yun11yun/servlet/CookieServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="747">
@@ -1169,10 +1124,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>
