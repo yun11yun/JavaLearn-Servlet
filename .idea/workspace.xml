@@ -7,19 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c2953cb-292b-4cb7-b45e-b30481be35ce" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/servlet/UploadServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/servlet/UploadServlet.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/utils/FileUtils.class" afterPath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/utils/FileUtils.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/utils/FileUtilsTest.class" afterPath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/com/yun11yun/utils/FileUtilsTest.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/com/yun11yun/servlet/UploadServlet.java" afterPath="$PROJECT_DIR$/src/com/yun11yun/servlet/UploadServlet.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/yun11yun/utils/FileUtils.java" afterPath="$PROJECT_DIR$/src/com/yun11yun/utils/FileUtils.java" />
-      <change beforePath="$PROJECT_DIR$/test/com/yun11yun/utils/FileUtilsTest.java" afterPath="$PROJECT_DIR$/test/com/yun11yun/utils/FileUtilsTest.java" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/yun11yun/servlet/UploadServlet.class" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/yun11yun/servlet/UploadServlet.class" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/yun11yun/utils/FileUtils.class" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/yun11yun/utils/FileUtils.class" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/yun11yun/utils/FileUtilsTest.class" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/com/yun11yun/utils/FileUtilsTest.class" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -140,13 +129,6 @@
                 <element signature="e#1245#1246#0" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="qiong.jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/artifacts/Servlet_war_exploded/WEB-INF/classes/upload/6/4/qiong.jpeg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -654,7 +636,7 @@
       <workItem from="1529115526552" duration="9198000" />
       <workItem from="1529484104207" duration="8000" />
       <workItem from="1529484167479" duration="4501000" />
-      <workItem from="1529648105726" duration="10523000" />
+      <workItem from="1529648105726" duration="10656000" />
     </task>
     <servers />
   </component>
@@ -691,7 +673,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111876000" />
+    <option name="totallyTimeSpent" value="112009000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -945,8 +927,8 @@
         <state relative-caret-position="432">
           <caret line="29" column="59" lean-forward="false" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
           <folding>
-            <element signature="e#923#924#0" expanded="true" />
-            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#989#990#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -956,9 +938,9 @@
         <state relative-caret-position="241">
           <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1184#1185#0" expanded="true" />
-            <element signature="e#1245#1246#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1184#1185#0" expanded="false" />
+            <element signature="e#1245#1246#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1008,7 +990,7 @@
         <state relative-caret-position="108">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1018,8 +1000,8 @@
         <state relative-caret-position="270">
           <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
           <folding>
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="false" />
+            <element signature="e#422#423#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1029,8 +1011,8 @@
         <state relative-caret-position="252">
           <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="false" />
+            <element signature="e#181#182#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1142,7 +1124,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
