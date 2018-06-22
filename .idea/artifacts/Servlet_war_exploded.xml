@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Servlet:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Servlet_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Servlet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Servlet" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="junit-4.8.2" />
+          <element id="library" level="project" name="c3p0-0.9.1.2" />
+          <element id="library" level="project" name="commons-dbutils-1.4" />
+          <element id="library" level="project" name="mysql-connector-java-8.0.11" />
+          <element id="library" level="project" name="jstl" />
+          <element id="library" level="project" name="standard" />
+          <element id="library" level="project" name="commons-beanutils-1.9.3" />
+          <element id="library" level="project" name="commons-logging-1.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
